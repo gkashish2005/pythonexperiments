@@ -1,0 +1,11 @@
+What is the capital of France?
+a. Berlin
+b. Madrid
+c. Paris
+d. Rome
+
+What is 2 + 2?
+a. 3
+b. 4
+c. 5
+d. 6
